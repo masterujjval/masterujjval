@@ -1,5 +1,5 @@
 
-![img](https://img.freepik.com/premium-photo/abstract-illustration-cosmos-theme-origin-life-universe-with-stars_88135-38882.jpg?w=2000)
+[![An image of @masterujjval's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masterujjval)](https://holopin.io/@masterujjval)
 
 <h1 align="center"> Hi,👋 I'm Ujjwal Gupta</h1>
 <h3 align="center">A passionate learner and programming geek 🕵️‍♂️</h3>
