@@ -4,7 +4,7 @@
 <h1 align="center"> Hi,👋 I'm Ujjwal Gupta</h1>
 <h3 align="center">A passionate learner and programming geek 🕵️‍♂️</h3>
 
-- 🌱 I’m currently learning **Javascript, kotlin, android development**
+- 🌱 I’m currently learning **Javascript,Python and Cybersecurity**
 
 - 💬 Ask me about **Cosmos, technology and mars colonisation 🚀**
 
